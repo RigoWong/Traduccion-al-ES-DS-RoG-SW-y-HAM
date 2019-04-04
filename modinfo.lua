@@ -1,8 +1,8 @@
 -- This information tells other players more about the mod
-name = "Hamelt en Español"
+name = "Hamlet en Español"
 description = "Esta Traduccion contendra RoG,SW y HAM."
 author = "RigoWon y Zombyx"
-version = "1.7.1"
+version = "1.9.1"
 
 -- This is the URL name of the mod's thread on the forum; the part after the index.php? and before the first & in the URL
 -- Example:
